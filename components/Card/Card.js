@@ -1,4 +1,4 @@
-const url = 'https://my-json-server.typicode.com/ryanboris/instaclone/db'
+const url = 'https://my-json-server.typicode.com/ryanboris/instaclone/data'
 
 axios
   .get(url)

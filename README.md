@@ -19,7 +19,7 @@ Run the following command in your terminal:
 ## Server
 
 For the GET requests, we will use the following url:
-[https://my-json-server.typicode.com/ryanboris/instaclone/db](https://my-json-server.typicode.com/ryanboris/instaclone/db)
+[https://my-json-server.typicode.com/ryanboris/instaclone/data](https://my-json-server.typicode.com/ryanboris/instaclone/data)
 
 ## Attribution
 
