@@ -42,9 +42,7 @@ const postMaker = post => {
 axios
   .get(url)
   .then(response => {
-    response.data.posts.map(post => {
-      postMaker(post)
-    })
+    response.data.posts.map(post => postMaker(post))
   })
   .catch(err => {
     console.error(err)
